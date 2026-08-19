@@ -180,8 +180,8 @@ OfflineCode:\
 #### 1. Clone or download the repository
 
 ``` bash
-git clone <repository-url>
-cd OfflineCode
+git clone https://github.com/d-ghosh717/Offline-Code-Generator.git
+cd OfflineCode-Code-Generator
 ```
 
 Or download the repository as a ZIP and extract it.
