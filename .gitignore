@@ -1,0 +1,4 @@
+# Ignore the local AI model
+models/*.gguf
+
+engine/llamafile-0.10.5.exe

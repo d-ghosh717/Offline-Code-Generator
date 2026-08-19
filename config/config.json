@@ -1,0 +1,8 @@
+{
+    "model": "models/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf",
+    "context_size": 4096,
+    "max_tokens": 2048,
+    "temperature": 0.2,
+    "top_p": 0.9,
+    "port": 8080
+}
